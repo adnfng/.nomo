@@ -27,7 +27,7 @@ Creative Director at {{Savvy Market}}
 
 ###### Projects
 
-open-source pure pure markdown personal pages — {{[nomo](https://nomo.md)}}
+open-source pure markdown personal pages — {{[nomo](https://nomo.md)}}
 a typescript sdk for the are.na api — {{[ts-arena](https://github.com/adnfng/ts-arena)}}
 creatives deserve a better portfolio — {{[Gallery](https://gallery.cv/)}}
 
